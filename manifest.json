@@ -1,0 +1,22 @@
+{
+  "name": "Noric Racing Management",
+  "short_name": "Noric",
+  "description": "Sistem Manajemen Produksi Noric Racing Exhaust",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1e293b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/image/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/image/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

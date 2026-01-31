@@ -1,0 +1,8 @@
+[24-Jan-2026 18:20:57 UTC] PHP Warning:  Undefined variable $base_url in /home/uwjqdfka/public_html/login.php on line 49
+[24-Jan-2026 18:20:57 UTC] PHP Warning:  Undefined variable $base_url in /home/uwjqdfka/public_html/login.php on line 50
+[24-Jan-2026 18:21:05 UTC] PHP Warning:  Undefined variable $conn in /home/uwjqdfka/public_html/login.php on line 16
+[24-Jan-2026 18:21:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_prepare(): Argument #1 ($mysql) must be of type mysqli, null given in /home/uwjqdfka/public_html/login.php:16
+Stack trace:
+#0 /home/uwjqdfka/public_html/login.php(16): mysqli_prepare(NULL, 'SELECT id, pin,...')
+#1 {main}
+  thrown in /home/uwjqdfka/public_html/login.php on line 16
